@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Himanshuacoder
-- 👀 I’m interested in Web Development and Machine Learning
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React.js.
 - 💞️ I’m looking to collaborate on any Full Stack Web Development Project.
 - 📫 How to reach me :- himanshuksingh17@gmail.com             
